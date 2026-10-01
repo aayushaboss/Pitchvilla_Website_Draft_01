@@ -1,5 +1,7 @@
 # Pitchvilla branch sites — rules
 
+Design files live in `design-source/`. The Next.js site is generated from them: after editing a site page there, run `npm run convert` (see README.md).
+
 100X Forge (`Pitchvilla Website v4.dc.html`) is the master reference for every branch sub-site.
 
 - **Palette only:** #FBF8F1 (page), #F3EDE0 (alt sections/strip), #E9E1CF (image slots), #FFCC00 (accent/stat band/final CTA), #1C1410 (ink), #4A3F37 / #6B5E54 (muted). No dark sections, no new colours.
